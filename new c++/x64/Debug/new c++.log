@@ -1,0 +1,3 @@
+﻿  new c++.cpp
+C:\Users\ali_o\OneDrive\Masaüstü\new c++\new c++\new c++.cpp(27,10): warning C4566: '\u200B' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+  new c++.vcxproj -> C:\Users\ali_o\OneDrive\Masaüstü\new c++\x64\Debug\new c++.exe
