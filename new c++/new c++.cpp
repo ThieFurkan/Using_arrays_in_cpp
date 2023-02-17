@@ -43,6 +43,6 @@ int main()
 	cout << "*-*-*-*-*-*-*-*-*-*";
 	cout << "\n";
 	
-	delete arr;
+	delete[] arr;
 	return 0;
 }
